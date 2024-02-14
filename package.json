@@ -1,0 +1,10 @@
+{
+  "name": "ts-jest-test",
+  "version": "1.0.0",
+  "main": "src/main.ts",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.11.17",
+    "typescript": "^5.3.3"
+  }
+}
